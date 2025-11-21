@@ -1,10 +1,10 @@
 <h1 align="left">👤 <strong>Wiliam Terroso de Sousa Melo</strong></h1>
 
-#### Profissional de Tecnologia com foco em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial
+#### Entusiasta de Tecnologia em constante aprendizado, focado em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial
 
 <img src="https://skillicons.dev/icons?i=aws,azure,python,javascript,ruby,linux,docker,kubernetes,terraform,git&theme=light" alt="Tech Stack" />
 
-Experiência sólida em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento de soluções com IA. Certificado em múltiplas tecnologias e plataformas, com participação ativa em eventos técnicos e congressos da área.
+Estudante apaixonado por tecnologia, investindo em formação contínua através de certificações em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento com IA. Participação ativa em eventos técnicos, workshops e congressos para construção de conhecimento e networking na área.
 
 > Para informações profissionais, oportunidades ou colaborações, entre em contato:
 <p>
@@ -87,7 +87,7 @@ Experiência sólida em infraestrutura cloud (AWS, Azure), automação DevOps, s
 
 ---
 
-## 💼 Áreas de Expertise
+## 💼 Áreas de Interesse e Estudo
 
 - ☁️ **Cloud Computing**: AWS, Azure, Arquitetura MultiCloud
 - 🔄 **DevOps & CI/CD**: Automação, Pipelines, Infraestrutura como Código
@@ -111,5 +111,5 @@ Experiência sólida em infraestrutura cloud (AWS, Azure), automação DevOps, s
 ---
 
 <p align="center">
-  <i>"Transformando conhecimento técnico em soluções inovadoras"</i>
+  <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
 </p>
