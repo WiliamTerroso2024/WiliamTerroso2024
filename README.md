@@ -114,4 +114,4 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
   <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
+<img src="https://github-contributions-api.jogruber.de/v4/WiliamTerroso2024?chart=radar&indicator=contributions" />
