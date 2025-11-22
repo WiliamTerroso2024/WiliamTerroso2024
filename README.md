@@ -113,3 +113,15 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 <p align="center">
   <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
 </p>
+
+### 🔎 Atividade Geral
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WiliamTerroso2024&theme=tokyo-night)
+
+---
+
+### 🧭 Radar de Contribuições
+
+<img src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&theme=tokyonight" />
