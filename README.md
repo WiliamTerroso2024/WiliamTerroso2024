@@ -114,3 +114,13 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
   <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
 </p>
 
+<div align="center">
+  
+### 📊 Contribution Activity
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USERNAME&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USERNAME&theme=github_dark)
+
+</div>
