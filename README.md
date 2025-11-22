@@ -114,4 +114,3 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
   <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
 </p>
 
-<img src="https://github-contributions-api.jogruber.de/v4/WiliamTerroso2024?chart=radar&indicator=contributions" />
