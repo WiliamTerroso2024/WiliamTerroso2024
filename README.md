@@ -27,6 +27,7 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Básico em DevOps** - Escola Atlântico Avanti (2024)
 - **DevOps na Prática: Criando uma Pipeline do Zero** - Udemy (2022)
 - **Imersão Cloud DevOps** - Alura (2025)
+- **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)
 
 ### Inteligência Artificial & Data Science
 - **AWS AI Generative (Discovery AI)** - Green Tecnologia (2025)
@@ -50,12 +51,18 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Networking Academy Learn-A-Thon 2025** - Cisco (2025)
 - **IT Essentials** - Cisco Networking Academy (2019)
 - **NDG Linux Unhatched** - Cisco Networking Academy (2022)
+- **Linux: gerenciando diretórios, arquivos, permissões e processos** - Alura (2025)
+- **Linux: criando script para processamento de arquivos de logs** - Alura (2025)
+- **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet** - Alura (2025)
+- **Redes: dos conceitos iniciais à criação de uma intranet** - Alura (2025)
+
 
 ### Desenvolvimento & Programação
 - **Start - Python** - OneBitCode (2025)
 - **Start - JavaScript** - OneBitCode (2025)
 - **Start - Ruby** - OneBitCode (2025)
 - **Fundamentos de FrontEnd Development** - Nubank (2023)
+- **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
 
 ### Gestão & Metodologias Ágeis
 - **Pré-MBA em Liderança e Gestão** - Saint Paul Escola de Negócios (2025)
@@ -127,3 +134,5 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 </div><div align="center">
   
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=github_dark)
+
+</div>
