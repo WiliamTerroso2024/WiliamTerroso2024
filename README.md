@@ -106,17 +106,6 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="right"><img alt="visitors" src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=8c36db&style=flat&label=visitors" /></p>
-
----
-
 <p align="center">
   <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
 </p>
