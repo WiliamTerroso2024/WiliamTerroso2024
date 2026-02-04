@@ -1,7 +1,8 @@
 <h1 align="left">👤 <strong>Wiliam Terroso de Sousa Melo</strong></h1>
 
 #### Entusiasta de Tecnologia em constante aprendizado, focado em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,git,python,js,ruby,ai,bot&theme=light" alt="Tech Stack" />
+
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,git,bash,kali,powershell,cloudflare,nginx,python,js,ruby,githubactions,ansible&perline=10&theme=light" alt="Tech Stack" />
 
 Estudante apaixonado por tecnologia, investindo em formação contínua através de certificações em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento com IA. Participação ativa em eventos técnicos, workshops e congressos para construção de conhecimento e networking na área.
 
@@ -16,6 +17,11 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 
 ## 🎓 Certificações e Especializações
 
+### 🚀 Conquistas Recentes (2026)
+- **Carreira IA: do zero ao primeiro agente automático com n8n** - Rocketseat (2026)
+- **Compliance em tempos de desconfiança** - TIexames (2026)
+- **Certificado de Participação - Carreira em TI do Zero** - Even3 (2026)
+
 ### Cloud Computing & DevOps
 - **AWS re/Start Graduate** - Amazon Web Services (2024)
 - **Programa AWS re/Start** - Escola da Nuvem (2024)
@@ -24,12 +30,10 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **DevOps Foundation** - Estabilis (2024)
 - **DevOps Experience** - Estabilis (2024)
 - **Básico em DevOps** - Escola Atlântico Avanti (2024)
-- **DevOps na Prática: Criando uma Pipeline do Zero** - Udemy (2022)
 - **Imersão Cloud DevOps** - Alura (2025)
 - **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)
 
 ### Inteligência Artificial & Data Science
-- **Carreira IA: do zero ao primeiro agente automático com n8n** - Rocketseat (2025)
 - **AWS AI Generative (Discovery AI)** - Green Tecnologia (2025)
 - **AI-900: Fundamentals** - Green Tecnologia (2025)
 - **Imersão Dev Agentes de IA Google** - Alura (2025)
@@ -63,33 +67,6 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Start - Ruby** - OneBitCode (2025)
 - **Fundamentos de FrontEnd Development** - Nubank (2023)
 - **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
-
-### Gestão, Compliance & Soft Skills
-- **Compliance em tempos de desconfiança** - TIexames (2025)
-- **Pré-MBA em Liderança e Gestão** - Saint Paul Escola de Negócios (2025)
-- **Agile Scrum Foundation** - Estabilis (2024)
-- **Posicionamento Profissional** - Escola Atlântico Avanti (2024)
-
----
-
-## 📚 Participação em Eventos Técnicos
-
-### Congressos e Workshops Recentes
-- **Carreira em TI do Zero: O Caminho Real para Iniciantes** - Even3 (2025)
-- **Semana Carreira Tech Fia** - FIAP + Alura (2025)
-- **XLIII Congresso da SBC (CSBC 2023)** - Sociedade Brasileira de Computação (2023)
-- **XXXI Congresso da SBC (CSBC 2011)** - Sociedade Brasileira de Computação (2011)
-- **XVIII Simpósio Brasileiro em Segurança da Informação (SBSeg18)** - SBC (2018)
-
----
-
-## 💼 Áreas de Interesse e Estudo
-
-- ☁️ **Cloud Computing**: AWS, Azure, Arquitetura MultiCloud
-- 🔄 **DevOps & CI/CD**: Automação, Pipelines, Infraestrutura como Código
-- 🔒 **Cibersegurança**: Pentest, Proteção de Dados, Endpoint Security
-- 🤖 **Inteligência Artificial**: IA Generativa, Agentes de IA (n8n), Machine Learning
-- 🌐 **Redes & Infraestrutura**: 5G, Linux, Cisco Technologies
 
 ---
 
