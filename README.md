@@ -75,8 +75,10 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 
 ## 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+<a href="https://github.com/WiliamTerroso2024">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</a>
 
 ---
 
@@ -90,6 +92,6 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 
 ### 👁️ Visitantes do Perfil
 
-<img src="https://profile-counter.glitch.me/WiliamTerroso2024/count.svg" alt="Contador de Visitantes" />
+![Visitor Count](https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes)
 
 </div>
