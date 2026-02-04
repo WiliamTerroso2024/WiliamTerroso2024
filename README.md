@@ -7,10 +7,11 @@
 Estudante apaixonado por tecnologia, investindo em formação contínua através de certificações em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento com IA. Participação ativa em eventos técnicos, workshops e congressos para construção de conhecimento e networking na área.
 
 > Para informações profissionais, oportunidades ou colaborações, entre em contato:
+
 <p>
-  <a href="https://www.linkedin.com/in/wiliamterrosodesousamelo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-  <a href="https://github.com/WiliamTerroso2024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
-  <a href="https://www.instagram.com/wiliam_terroso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/wiliamterrosodesousamelo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/WiliamTerroso2024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/wiliam_terroso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -22,10 +23,10 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Compliance em tempos de desconfiança** - TIexames (2026)
 - **Certificado de Participação - Carreira em TI do Zero** - Even3 (2026)
 
-### Cloud Computing & DevOps
+### ☁️ Cloud Computing & DevOps
 - **AWS re/Start Graduate** - Amazon Web Services (2024)
 - **Programa AWS re/Start** - Escola da Nuvem (2024)
-- **Azure Fundamentals (AZ-900)** - Preparação Certificação Microsoft (2025)
+- **Azure Fundamentals (AZ-900)** - Preparação para Certificação Microsoft (2025)
 - **MultiCloud DevOps e IA** - The Cloud Bootcamp (2025)
 - **DevOps Foundation** - Estabilis (2024)
 - **DevOps Experience** - Estabilis (2024)
@@ -33,17 +34,17 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Imersão Cloud DevOps** - Alura (2025)
 - **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)
 
-### Inteligência Artificial & Data Science
+### 🤖 Inteligência Artificial & Data Science
 - **AWS AI Generative (Discovery AI)** - Green Tecnologia (2025)
 - **AI-900: Fundamentals** - Green Tecnologia (2025)
 - **Imersão Dev Agentes de IA Google** - Alura (2025)
 - **Preparatório EXIN Generative AI Award** - United Latino Students Association (2025)
-- **I.A. NA PRÁTICA: 10 ferramentas para dominar o mercado em 2025** - Saint Paul (2025)
+- **I.A. na Prática: 10 ferramentas para dominar o mercado em 2025** - Saint Paul (2025)
 - **Microsoft Copilot - Produtividade com IA** - Santander X (2025)
 - **Introdução à Ciência de Dados** - Fundação Getulio Vargas (2025)
 - **Imersão Dados com Python** - Alura (2025)
 
-### Cibersegurança
+### 🔒 Cibersegurança
 - **Endpoint Security** - Cisco Networking Academy (2025)
 - **Cybersecurity Essentials** - Cisco Networking Academy (2020)
 - **Introduction to Cybersecurity** - Cisco Networking Academy (2020)
@@ -51,7 +52,7 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Proteção de Software e Segurança da IA** - Santander X (2025)
 - **Da Teoria à Prática: Proteção de Dados Pessoais e Gestão de Incidentes** - NIC.br (2025)
 
-### Redes & Infraestrutura
+### 🌐 Redes & Infraestrutura
 - **HCIA-5G V2.0 Course** - Huawei (2022)
 - **Networking Academy Learn-A-Thon 2025** - Cisco (2025)
 - **IT Essentials** - Cisco Networking Academy (2019)
@@ -61,11 +62,11 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet** - Alura (2025)
 - **Redes: dos conceitos iniciais à criação de uma intranet** - Alura (2025)
 
-### Desenvolvimento & Programação
+### 💻 Desenvolvimento & Programação
 - **Start - Python** - OneBitCode (2025)
 - **Start - JavaScript** - OneBitCode (2025)
 - **Start - Ruby** - OneBitCode (2025)
-- **Fundamentos de FrontEnd Development** - Nubank (2023)
+- **Fundamentos de Front-End Development** - Nubank (2023)
 - **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
 
 ---
@@ -73,8 +74,8 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 ## 📈 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -83,8 +84,8 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
   
 ### 📊 Contribution Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark)
 
 </div>
