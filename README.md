@@ -75,23 +75,38 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/WiliamTerroso2024">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 Contribution Activity
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark" alt="Profile Details" />
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 👁️ Visitantes do Perfil
 
-![Visitor Count](https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes)
+<img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
 
 </div>
