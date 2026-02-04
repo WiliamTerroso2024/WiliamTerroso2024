@@ -69,11 +69,27 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Fundamentos de Front-End Development** - Nubank (2023)
 - **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
 
- 
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiliamTerroso2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+---
+
 ### 📊 Contribution Activity
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark)
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark)
+
+---
+
+### 👁️ Visitantes do Perfil
+
+<img src="https://profile-counter.glitch.me/WiliamTerroso2024/count.svg" alt="Contador de Visitantes" />
 
 </div>
