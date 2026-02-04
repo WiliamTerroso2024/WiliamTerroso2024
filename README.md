@@ -1,7 +1,7 @@
 <h1 align="left">👤 <strong>Wiliam Terroso de Sousa Melo</strong></h1>
 
 #### Entusiasta de Tecnologia em constante aprendizado, focado em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,git,cisco,networks,security,python,js,ruby,ai,bot&theme=light" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,git,python,js,ruby,ai,bot&theme=light" alt="Tech Stack" />
 
 Estudante apaixonado por tecnologia, investindo em formação contínua através de certificações em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento com IA. Participação ativa em eventos técnicos, workshops e congressos para construção de conhecimento e networking na área.
 
