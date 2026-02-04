@@ -2,7 +2,7 @@
 
 #### Entusiasta de Tecnologia em constante aprendizado, focado em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial
 
-<img src="https://skillicons.dev/icons?i=aws,azure,python,javascript,ruby,linux,docker,kubernetes,terraform,git&theme=light" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=aws,azure,python,javascript,ruby,linux,docker,kubernetes,terraform,git,cisco,networks,security,bot,ai&theme=light" alt="Tech Stack" />
 
 Estudante apaixonado por tecnologia, investindo em formação contínua através de certificações em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento com IA. Participação ativa em eventos técnicos, workshops e congressos para construção de conhecimento e networking na área.
 
@@ -30,6 +30,7 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)
 
 ### Inteligência Artificial & Data Science
+- **Carreira IA: do zero ao primeiro agente automático com n8n** - Rocketseat (2025)
 - **AWS AI Generative (Discovery AI)** - Green Tecnologia (2025)
 - **AI-900: Fundamentals** - Green Tecnologia (2025)
 - **Imersão Dev Agentes de IA Google** - Alura (2025)
@@ -40,6 +41,7 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Imersão Dados com Python** - Alura (2025)
 
 ### Cibersegurança
+- **Endpoint Security** - Cisco Networking Academy (2025)
 - **Cybersecurity Essentials** - Cisco Networking Academy (2020)
 - **Introduction to Cybersecurity** - Cisco Networking Academy (2020)
 - **Introdução ao Pentest na Prática** - Desec Security (2025)
@@ -56,7 +58,6 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet** - Alura (2025)
 - **Redes: dos conceitos iniciais à criação de uma intranet** - Alura (2025)
 
-
 ### Desenvolvimento & Programação
 - **Start - Python** - OneBitCode (2025)
 - **Start - JavaScript** - OneBitCode (2025)
@@ -64,33 +65,22 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 - **Fundamentos de FrontEnd Development** - Nubank (2023)
 - **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
 
-### Gestão & Metodologias Ágeis
+### Gestão, Compliance & Soft Skills
+- **Compliance em tempos de desconfiança** - TIexames (2025)
 - **Pré-MBA em Liderança e Gestão** - Saint Paul Escola de Negócios (2025)
 - **Agile Scrum Foundation** - Estabilis (2024)
 - **Posicionamento Profissional** - Escola Atlântico Avanti (2024)
-- **Semana Carreira Tech Fia** - FIAP + Alura (2025)
 
 ---
 
 ## 📚 Participação em Eventos Técnicos
 
-### Congressos Nacionais
+### Congressos e Workshops Recentes
+- **Carreira em TI do Zero: O Caminho Real para Iniciantes** - Even3 (2025)
+- **Semana Carreira Tech Fia** - FIAP + Alura (2025)
 - **XLIII Congresso da SBC (CSBC 2023)** - Sociedade Brasileira de Computação (2023)
 - **XXXI Congresso da SBC (CSBC 2011)** - Sociedade Brasileira de Computação (2011)
 - **XVIII Simpósio Brasileiro em Segurança da Informação (SBSeg18)** - SBC (2018)
-
-### Workshops e Palestras (2024)
-- Governança Pública Digital
-- crAPI - Segurança das Aplicações com OWASP
-- Defesa em Profundidade: Múltiplas Camadas de Segurança
-- Minicurso: Fundamentos de Redes na AWS
-- Ética, Educação e IA: Onde está o limite?
-- Como construir uma cultura inovadora
-
-### Eventos Institucionais
-- **EXPOTEC 2024** - Sustentabilidade Digital: Inovação para um futuro viável
-- **XVI Semana de Educação, Ciência, Cultura e Tecnologia** - IFPB (2021)
-- Visita Técnica ao TRE-PB - Mídias e Memorial da Justiça Eleitoral (2022)
 
 ---
 
@@ -98,11 +88,9 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
 
 - ☁️ **Cloud Computing**: AWS, Azure, Arquitetura MultiCloud
 - 🔄 **DevOps & CI/CD**: Automação, Pipelines, Infraestrutura como Código
-- 🔒 **Cibersegurança**: Pentest, Proteção de Dados, Segurança de Aplicações
-- 🤖 **Inteligência Artificial**: IA Generativa, Agentes de IA, Machine Learning
-- 📊 **Data Science**: Análise de Dados, Python para Dados
+- 🔒 **Cibersegurança**: Pentest, Proteção de Dados, Endpoint Security
+- 🤖 **Inteligência Artificial**: IA Generativa, Agentes de IA (n8n), Machine Learning
 - 🌐 **Redes & Infraestrutura**: 5G, Linux, Cisco Technologies
-- 💻 **Desenvolvimento**: Python, JavaScript, Ruby, Frontend
 
 ---
 
@@ -113,26 +101,14 @@ Estudante apaixonado por tecnologia, investindo em formação contínua através
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamTerroso2024&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="right"><img alt="visitors" src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=8c36db&style=flat&label=visitors" /></p>
-
 ---
-
-<p align="center">
-  <i>"Em busca de aprendizado contínuo e oportunidades para aplicar conhecimento em projetos reais"</i>
-</p>
-
 
 <div align="center">
   
 ### 📊 Contribution Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark)
-
-</div><div align="center">
-  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=github_dark)
 
 </div>
