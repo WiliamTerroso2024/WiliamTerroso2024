@@ -4,7 +4,13 @@
 
 <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,git,bash,kali,powershell,cloudflare,nginx,python,js,ruby,githubactions,ansible&perline=10&theme=light" alt="Tech Stack" />
 
-Estudante apaixonado por tecnologia, investindo em formação contínua através de certificações em infraestrutura cloud (AWS, Azure), automação DevOps, segurança da informação e desenvolvimento com IA. Participação ativa em eventos técnicos, workshops e congressos para construção de conhecimento e networking na área.
+Estudante de Redes de Computadores e entusiasta de Tecnologia em constante evolução, com foco em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial.
+
+Possuo formação prática em fundamentos de Cloud (AWS Academy), segurança de endpoints e redes pela Cisco Networking Academy, além de experiência em projetos com Docker e Kubernetes para implantação de aplicações em ambientes distribuídos.
+
+Atualmente estou desenvolvendo habilidades em automação, infraestrutura como código e soluções em nuvem (AWS, Azure e GCP), buscando construir ambientes escaláveis, seguros e eficientes.
+
+Interesses: Cloud Infrastructure | DevOps | Cybersecurity | Networking | Kubernetes | IA aplicada à infraestrutura
 
 > Para informações profissionais, oportunidades ou colaborações, entre em contato:
 
