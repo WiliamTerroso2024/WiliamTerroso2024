@@ -25,6 +25,7 @@ Interesses: Cloud Infrastructure | DevOps | Cybersecurity | Networking | Kuberne
 ## 🎓 Certificações e Especializações
 
 ### 🚀 Conquistas Recentes (2026)
+- **AWS Academy Graduate - Cloud Foundations** -  Amazon Web Services (2026)
 - **Carreira IA: do zero ao primeiro agente automático com n8n** - Rocketseat (2026)
 - **Compliance em tempos de desconfiança** - TIexames (2026)
 - **Certificado de Participação - Carreira em TI do Zero** - Even3 (2026)
