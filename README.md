@@ -25,6 +25,8 @@ Atualmente estou desenvolvendo habilidades em automação, infraestrutura como c
 ## 🎓 Certificações e Especializações
 
 ### 🚀 Conquistas Recentes (2026)
+- **Integração Contínua: Pipeline Docker no Github Actions** - Alura (2026)
+- **Integração Contínua: pipelines e testes automatizados com GitHub Actions** - Alura (2026)
 - **Entrega Contínua: confiabilidade e qualidade na implantação de software** - Alura (2026)
 - **Integração Contínua: mais qualidade e menos risco no desenvolvimento** - Alura (2026)
 - **Docker: criando e gerenciando containers** - Alura (2026)
