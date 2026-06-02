@@ -22,6 +22,8 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 ## 🎓 Certificações e Especializações
 
 ### ☁️ Cloud Computing & DevOps
+
+- **Imersão Digital – Trilha DevOps: Administração, Operação e Monitoramento de Sistemas** Alura (2026)
 - **AWS Academy Graduate - Cloud Foundations** - Amazon Web Services (2026)
 - **Integração Contínua: Pipeline Docker no Github Actions** - Alura (2026)
 - **Integração Contínua: pipelines e testes automatizados com GitHub Actions** - Alura (2026)
