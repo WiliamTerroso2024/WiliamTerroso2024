@@ -49,6 +49,7 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 - **Imersão Dados com Python** - Alura (2025)
 
 ### 🔒 Cibersegurança e Compliance
+- **Google SecOps Foundation** - Google Cloud Security (2026)
 - **Compliance em tempos de desconfiança** - TIexames (2026)
 - **Endpoint Security** - Cisco Networking Academy (2025)
 - **Cybersecurity Essentials** - Cisco Networking Academy (2020)
@@ -57,6 +58,7 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 - **Da Teoria à Prática: Proteção de Dados Pessoais e Gestão de Incidentes** - NIC.br (2025)
 
 ### 🌐 Redes & Infraestrutura
+- **Live Intra Rede - Preparação para a transmissão da Copa do Mundo: Eficiência, Escala e Confiabilidade** - NIC.br (2026)
 - **Networking Academy Learn-A-Thon 2025** - Cisco (2025)
 - **Linux: gerenciando diretórios, arquivos, permissões e processos** - Alura (2025)
 - **Linux: criando script para processamento de arquivos de logs** - Alura (2025)
@@ -69,6 +71,7 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 - **Fundamentos de Front-End Development** - Nubank (2023)
 
 ### 🚀 Comunidades e Eventos
+- **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Silvio Meira** - PUCRS (2026)
 - **AZBR Summit 2026** - AzureBrasil.cloud (2026)
 - **Certificado de Participação - Carreira em TI do Zero** - Even3 (2026)
 - **14° DIO Campus Expert** - DIO (2025)
