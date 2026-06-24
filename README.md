@@ -29,14 +29,14 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 - **Imersão Digital – Trilha DevOps: Administração, Operação e Monitoramento de Sistemas** - Alura (2026)
 - **AWS Academy Graduate - Cloud Foundations** - Amazon Web Services (2026)
 - **Integração Contínua: Pipeline Docker no Github Actions** - Alura (2026)
-- **Integração Contínua: pipelines e testes automatizados com GitHub Actions** - Alura (2026)[cite: 1]
-- **Entrega Contínua: confiabilidade e qualidade na implantação de software** - Alura (2026)[cite: 1]
-- **Docker: criando e gerenciando containers** - Alura (2026)[cite: 1]
-- **DevOps: trabalhando com repositórios no GitHub** - Alura (2026)[cite: 1]
-- **DevOps: trabalhando com tráfego seguro em comunicações web** - Alura (2026)[cite: 1]
-- **Imersão DevOps** - Alura (2025)[cite: 1]
-- **Imersão Cloud DevOps** - Alura (2025)[cite: 1]
-- **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)[cite: 1]
+- **Integração Contínua: pipelines e testes automatizados com GitHub Actions** - Alura (2026)
+- **Entrega Contínua: confiabilidade e qualidade na implantação de software** - Alura (2026)
+- **Docker: criando e gerenciando containers** - Alura (2026)
+- **DevOps: trabalhando com repositórios no GitHub** - Alura (2026)
+- **DevOps: trabalhando com tráfego seguro em comunicações web** - Alura (2026)
+- **Imersão DevOps** - Alura (2025)
+- **Imersão Cloud DevOps** - Alura (2025)
+- **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)
 - **Azure Fundamentals (AZ-900)** - Preparação para Certificação Microsoft (2025)
 - **MultiCloud DevOps e IA** - The Cloud Bootcamp (2025)
 - **AWS re/Start Graduate** - Amazon Web Services / Escola da Nuvem (2024)
@@ -44,29 +44,29 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 
 ### 🤖 Inteligência Artificial & Data Science
 
-- **ChatGPT: otimizando a qualidade dos resultados** - Alura (2026)[cite: 1]
-- **Aprendizagem: personalizando sua rotina de estudos com ChatGPT** - Alura (2026)[cite: 1]
-- **Engenharia de Prompt: criando prompts eficazes para IA Generativa** - Alura (2026)[cite: 1]
-- **IA: explorando o potencial da inteligência artificial generativa** - Alura (2026)[cite: 1]
+- **ChatGPT: otimizando a qualidade dos resultados** - Alura (2026)
+- **Aprendizagem: personalizando sua rotina de estudos com ChatGPT** - Alura (2026)
+- **Engenharia de Prompt: criando prompts eficazes para IA Generativa** - Alura (2026)
+- **IA: explorando o potencial da inteligência artificial generativa** - Alura (2026)
 - **Carreira IA: do zero ao primeiro agente automático com n8n** - Rocketseat (2026)
 - **Introdução à IA gerativa no Azure** - Microsoft (2025)
 - **AWS AI Generative (Discovery AI)** - Green Tecnologia (2025)
 - **AI-900: Fundamentals** - Green Tecnologia (2025)
-- **Imersão Dev Agentes de IA Google** - Alura (2025)[cite: 1]
+- **Imersão Dev Agentes de IA Google** - Alura (2025)
 - **I.A. na Prática: 10 ferramentas para dominar o mercado** - Saint Paul (2025)
 - **Microsoft Copilot - Produtividade com IA** - Santander X (2025)
-- **Imersão Dados com Python** - Alura (2025)[cite: 1]
+- **Imersão Dados com Python** - Alura (2025)
 
 ### 📊 Data Analysis & Office Basics
 
-- **Excel: simulação e análise de cenários** - Alura (2026)[cite: 1]
-- **Análise de dados: cálculos, padrões e estratégias com Excel** - Alura (2026)[cite: 1]
-- **Excel: domine o editor de planilhas** - Alura (2026)[cite: 1]
-- **Funções com Excel: operações matemáticas e filtros** - Alura (2026)[cite: 1]
-- **Recursos Visuais com Excel: explorando gráficos e formatos** - Alura (2026)[cite: 1]
-- **Excel: aprendendo lógica booleana e busca por valores** - Alura (2026)[cite: 1]
-- **Excel: utilizando tabelas dinâmicas e gráficos dinâmicos** - Alura (2026)[cite: 1]
-- **Imersão Data Science** - Alura (2025)[cite: 1]
+- **Excel: simulação e análise de cenários** - Alura (2026)
+- **Análise de dados: cálculos, padrões e estratégias com Excel** - Alura (2026)
+- **Excel: domine o editor de planilhas** - Alura (2026)
+- **Funções com Excel: operações matemáticas e filtros** - Alura (2026)
+- **Recursos Visuais com Excel: explorando gráficos e formatos** - Alura (2026)
+- **Excel: aprendendo lógica booleana e busca por valores** - Alura (2026)
+- **Excel: utilizando tabelas dinâmicas e gráficos dinâmicos** - Alura (2026)
+- **Imersão Data Science** - Alura (2025)
 
 ### 🔒 Cibersegurança e Compliance
 
@@ -81,21 +81,21 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 ### 🌐 Redes & Infraestrutura
 
 - **Live Intra Rede - Preparação para a transmissão da Copa do Mundo: Eficiência, Escala e Confiabilidade** - NIC.br (2026)
-- **Trilha Alura: Começando em Linux** - Alura (2025)[cite: 1]
-- **Linux: gerenciando diretórios, arquivos, permissões e processos** - Alura (2025)[cite: 1]
-- **Linux: criando script para processamento de arquivos de logs** - Alura (2025)[cite: 1]
-- **Linux: criando script de monitoramento de sistema** - Alura (2025)[cite: 1]
-- **Redes: dos conceitos iniciais à criação de uma intranet** - Alura (2025)[cite: 1]
-- **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet** - Alura (2025)[cite: 1]
+- **Trilha Alura: Começando em Linux** - Alura (2025)
+- **Linux: gerenciando diretórios, arquivos, permissões e processos** - Alura (2025)
+- **Linux: criando script para processamento de arquivos de logs** - Alura (2025)
+- **Linux: criando script de monitoramento de sistema** - Alura (2025)
+- **Redes: dos conceitos iniciais à criação de uma intranet** - Alura (2025)
+- **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet** - Alura (2025)
 - **Networking Academy Learn-A-Thon 2025** - Cisco (2025)
 - **HCIA-5G V2.0 Course** - Huawei (2022)
 
 ### 💻 Desenvolvimento & Programação
 
-- **Lógica de programação: explore funções e listas** - Alura (2025)[cite: 1]
-- **Começando em Programação: carreira e primeiros passos** - Alura (2025)[cite: 1]
+- **Lógica de programação: explore funções e listas** - Alura (2025)
+- **Começando em Programação: carreira e primeiros passos** - Alura (2025)
 - **Start - Python / JavaScript / Ruby** - OneBitCode (2025)
-- **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)[cite: 1]
+- **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
 - **Fundamentos de Front-End Development** - Nubank (2023)
 
 ### 🚀 Comunidades e Eventos
