@@ -99,7 +99,8 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 - **Fundamentos de Front-End Development** - Nubank (2023)
 
 ### 🚀 Comunidades e Eventos
-
+- **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Camila Farani** - PUCRS (2026)
+- **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Clóvis de Barros** - PUCRS (2026)
 - **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Silvio Meira** - PUCRS (2026)
 - **AZBR Summit 2026** - AzureBrasil.cloud (2026)
 - **Certificado de Participação - Carreira em TI do Zero** - Even3 (2026)
