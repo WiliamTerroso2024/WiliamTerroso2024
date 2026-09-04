@@ -35,50 +35,50 @@ Formando em Redes de Computadores com foco em infraestrutura ágil, automação 
 
 ## 🏆 Certificações & Credenciais Verificadas (Credly & Academias)
 
-- ☁️ **Google Cloud Computing Foundations Certificate** – Google Cloud (2026)[cite: 2]
-- 🛡️ **Build a Secure Google Cloud Network** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
-- ⚖️ **Implement Load Balancing on Compute Engine** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
-- 💻 **Set Up an App Dev Environment on Google Cloud** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
-- 🧠 **Prepare Data for ML APIs on Google Cloud** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
-- 🤖 **AI Skills Fest 2026** – Microsoft (2026)[cite: 2]
-- ☁️ **AWS Academy Graduate: Cloud Foundations** – Amazon Web Services (2026)[cite: 2]
-- 🎓 **AWS re/Start Graduate** – Amazon Web Services / Escola da Nuvem (2024)[cite: 2, 3]
-- 🔒 **Endpoint Security** – Cisco Networking Academy (2025)[cite: 2]
-- 🌐 **Networking Academy Learn-A-Thon 2025** – Cisco (2025)[cite: 2]
+- ☁️ **Google Cloud Computing Foundations Certificate** – Google Cloud (2026)
+- 🛡️ **Build a Secure Google Cloud Network** *(Skill Badge)* – Google Cloud (2026)
+- ⚖️ **Implement Load Balancing on Compute Engine** *(Skill Badge)* – Google Cloud (2026)
+- 💻 **Set Up an App Dev Environment on Google Cloud** *(Skill Badge)* – Google Cloud (2026)
+- 🧠 **Prepare Data for ML APIs on Google Cloud** *(Skill Badge)* – Google Cloud (2026)
+- 🤖 **AI Skills Fest 2026** – Microsoft (2026)
+- ☁️ **AWS Academy Graduate: Cloud Foundations** – Amazon Web Services (2026)
+- 🎓 **AWS re/Start Graduate** – Amazon Web Services / Escola da Nuvem (2024)
+- 🔒 **Endpoint Security** – Cisco Networking Academy (2025)
+- 🌐 **Networking Academy Learn-A-Thon 2025** – Cisco (2025)
 
 ---
 
 ## 📚 Especializações e Formações Técnicas
 
 ### ☁️ Cloud & DevOps
-- **Kubernetes:** Deployments, Volumes e Escalabilidade – Alura (2026)[cite: 1]
-- **Kubernetes:** Pods, Services e ConfigMaps – Alura (2026)[cite: 1]
-- **Docker:** Criação, gerenciamento e automação de containers – Alura (2026)[cite: 1]
-- **CI/CD & GitHub Actions:** Pipelines de testes automatizados e integração Docker – Alura (2026)[cite: 1]
-- **Entrega Contínua (CD):** Confiabilidade e qualidade na implantação de software – Alura (2026)[cite: 1]
-- **MultiCloud DevOps e IA** – The Cloud Bootcamp (2025)[cite: 3]
-- **DevOps Foundation** – Estabilis (2024)[cite: 3]
+- **Kubernetes:** Deployments, Volumes e Escalabilidade – Alura (2026)
+- **Kubernetes:** Pods, Services e ConfigMaps – Alura (2026)
+- **Docker:** Criação, gerenciamento e automação de containers – Alura (2026)
+- **CI/CD & GitHub Actions:** Pipelines de testes automatizados e integração Docker – Alura (2026)
+- **Entrega Contínua (CD):** Confiabilidade e qualidade na implantação de software – Alura (2026)
+- **MultiCloud DevOps e IA** – The Cloud Bootcamp (2025)
+- **DevOps Foundation** – Estabilis (2024)
 
 ### 🌐 Redes, Linux & Cibersegurança
-- **Linux:** Automação com scripts de monitoramento, logs, permissões e processos (Trilha 28h) – Alura (2025)[cite: 1]
-- **Projetos de Redes:** VLANs, políticas de acesso, topologia intranet e segurança web – Alura (2025)[cite: 1]
-- **Google SecOps Foundation** – Google Cloud Security (2026)[cite: 3]
-- **Cybersecurity Essentials** – Cisco Networking Academy[cite: 3]
-- **Introdução ao Pentest na Prática** – Desec Security (2025)[cite: 3]
+- **Linux:** Automação com scripts de monitoramento, logs, permissões e processos (Trilha 28h) – Alura (2025)
+- **Projetos de Redes:** VLANs, políticas de acesso, topologia intranet e segurança web – Alura (2025)
+- **Google SecOps Foundation** – Google Cloud Security (2026)
+- **Cybersecurity Essentials** – Cisco Networking Academy
+- **Introdução ao Pentest na Prática** – Desec Security (2025)
 
 ### 📊 Business Intelligence, Dados & IA
-- **Trilha Power BI (32h):** Dashboards interativos, modelagem DAX e ETL com Power Query – Alura (2026)[cite: 1]
-- **BI com Excel & Power Pivot:** Análise avançada e simulação de cenários – Alura (2026)[cite: 1]
-- **Engenharia de Prompt & IA Generativa:** Aplicação prática com agentes e automação – Alura / Rocketseat (2026)[cite: 1, 3]
-- **Imersão Dev Agentes de IA Google** – Alura (2025)[cite: 1]
+- **Trilha Power BI (32h):** Dashboards interativos, modelagem DAX e ETL com Power Query – Alura (2026)
+- **BI com Excel & Power Pivot:** Análise avançada e simulação de cenários – Alura (2026)
+- **Engenharia de Prompt & IA Generativa:** Aplicação prática com agentes e automação – Alura / Rocketseat (2026)
+- **Imersão Dev Agentes de IA Google** – Alura (2025)
 
 <details>
 <summary>📂 <strong>Ver outros cursos complementares e participações em eventos</strong></summary>
 <br>
 
-- **Lógica e Programação:** JavaScript, Python, Ruby (Alura / OneBitCode)[cite: 1, 3]
-- **Comunidades e Eventos:** AZBR Summit 2026, PUCRS Online Summit (Camila Farani, Clóvis de Barros, Silvio Meira), DIO Campus Expert[cite: 3]
-- **Cursos Introdutórios de Produtividade & Office:** Fórmulas lógicas, gráficos dinâmicos e rotinas de produtividade[cite: 1]
+- **Lógica e Programação:** JavaScript, Python, Ruby (Alura / OneBitCode)
+- **Comunidades e Eventos:** AZBR Summit 2026, PUCRS Online Summit (Camila Farani, Clóvis de Barros, Silvio Meira), DIO Campus Expert
+- **Cursos Introdutórios de Produtividade & Office:** Fórmulas lógicas, gráficos dinâmicos e rotinas de produtividade
 </details>
 
 ---
