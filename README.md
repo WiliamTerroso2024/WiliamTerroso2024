@@ -1,116 +1,91 @@
 <h1 align="left">👤 <strong>Wiliam Terroso de Sousa Melo</strong></h1>
 
-#### Entusiasta de Tecnologia em constante aprendizado, focado em Cloud Computing, DevOps, Cibersegurança e Inteligência Artificial
+#### Cloud Infrastructure | DevOps | Cybersecurity & Networks | AI Integration
 
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,git,bash,kali,powershell,cloudflare,nginx,python,js,ruby,githubactions,ansible,excel,chatgpt&perline=10&theme=light" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,terraform,git,bash,powershell,githubactions,cloudflare,nginx,python,js&perline=14&theme=light" alt="Tech Stack" />
 
-Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em construir ambientes escaláveis, seguros e eficientes através de Cloud Computing, DevOps e Cibersegurança.
+Formando em Redes de Computadores com foco em infraestrutura ágil, automação CI/CD, arquiteturas Multi-Cloud (AWS, GCP, Azure) e segurança cibernética. Experiência prática na criação de pipelines de entrega contínua, orquestração de containers com Kubernetes e monitoramento de ambientes escaláveis.
 
-**Interesses:** Cloud Infrastructure | DevOps | Cybersecurity | Networking | Kubernetes | IA aplicada à infraestrutura
+---
 
-> Para informações profissionais, oportunidades ou colaborações, entre em contato:
-
+### 📬 Conecte-se comigo
 <p>
-  <a href="https://www.linkedin.com/in/wiliamterrosodesousamelo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/WiliamTerroso2024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.instagram.com/wiliam_terroso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://cursos.alura.com.br/user/wiliamterroso"><img src="https://img.shields.io/badge/Alura-167BF7?style=for-the-badge&logo=alura&logoColor=white" alt="Alura"></a>
+  <a href="https://www.linkedin.com/in/wiliamterrosodesousamelo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/users/wiliam-terroso-de-sousa-melo/badges/credly" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"></a>
+  <a href="https://cursos.alura.com.br/user/wiliamterroso" target="_blank"><img src="https://img.shields.io/badge/Alura-167BF7?style=for-the-badge&logo=alura&logoColor=white" alt="Alura"></a>
+  <a href="https://github.com/WiliamTerroso2024" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-## 🎓 Certificações e Especializações
+## 🎓 Formação Acadêmica
 
-### ☁️ Cloud Computing & DevOps
+- **Tecnólogo em Redes de Computadores** – Instituto Federal da Paraíba (IFPB) *(Formando • Previsão: Dezembro/2026)*
 
-- **Kubernetes: Deployments, Volumes e Escalabilidade** - Alura (2026)
-- **Kubernetes: Pods, Services e ConfigMaps** - Alura (2026)
-- **Integração Contínua: mais qualidade e menos risco no desenvolvimento** - Alura (2026)
-- **Imersão Digital – Trilha DevOps: Administração, Operação e Monitoramento de Sistemas** - Alura (2026)
-- **AWS Academy Graduate - Cloud Foundations** - Amazon Web Services (2026)
-- **Integração Contínua: Pipeline Docker no Github Actions** - Alura (2026)
-- **Integração Contínua: pipelines e testes automatizados com GitHub Actions** - Alura (2026)
-- **Entrega Contínua: confiabilidade e qualidade na implantação de software** - Alura (2026)
-- **Docker: criando e gerenciando containers** - Alura (2026)
-- **DevOps: trabalhando com repositórios no GitHub** - Alura (2026)
-- **DevOps: trabalhando com tráfego seguro em comunicações web** - Alura (2026)
-- **Imersão DevOps** - Alura (2025)
-- **Imersão Cloud DevOps** - Alura (2025)
-- **DevOps: explorando conceitos, comandos e scripts no Linux CLI** - Alura (2025)
-- **Azure Fundamentals (AZ-900)** - Preparação para Certificação Microsoft (2025)
-- **MultiCloud DevOps e IA** - The Cloud Bootcamp (2025)
-- **AWS re/Start Graduate** - Amazon Web Services / Escola da Nuvem (2024)
-- **DevOps Foundation** - Estabilis (2024)
+---
 
-### 🤖 Inteligência Artificial & Data Science
+## 🛠️ Competências em Destaque
 
-- **ChatGPT: otimizando a qualidade dos resultados** - Alura (2026)
-- **Aprendizagem: personalizando sua rotina de estudos com ChatGPT** - Alura (2026)
-- **Engenharia de Prompt: criando prompts eficazes para IA Generativa** - Alura (2026)
-- **IA: explorando o potencial da inteligência artificial generativa** - Alura (2026)
-- **Carreira IA: do zero ao primeiro agente automático com n8n** - Rocketseat (2026)
-- **Introdução à IA gerativa no Azure** - Microsoft (2025)
-- **AWS AI Generative (Discovery AI)** - Green Tecnologia (2025)
-- **AI-900: Fundamentals** - Green Tecnologia (2025)
-- **Imersão Dev Agentes de IA Google** - Alura (2025)
-- **I.A. na Prática: 10 ferramentas para dominar o mercado** - Saint Paul (2025)
-- **Microsoft Copilot - Produtividade com IA** - Santander X (2025)
-- **Imersão Dados com Python** - Alura (2025)
+- **Cloud & Infraestrutura:** AWS (re/Start Graduate, Academy Cloud Foundations), Google Cloud (Foundations, Compute Engine, VPCs), Microsoft Azure.
+- **Containers & DevOps:** Docker, Kubernetes (Pods, Services, Deployments, Volumes, Scaling), GitHub Actions (Pipelines CI/CD, Testes e Automação).
+- **Sistemas & Redes:** Linux CLI, Shell Scripting, Automação de Logs e Monitoramento, VLANs, Roteamento, Firewalls, Endpoint Security.
+- **Dados & IA:** Google Cloud ML APIs, Power BI (DAX, Power Query/ETL), Engenharia de Prompt, Agentes de IA.
 
-### 📊 Data Analysis & Office Basics
+---
 
-- **Excel: simulação e análise de cenários** - Alura (2026)
-- **Análise de dados: cálculos, padrões e estratégias com Excel** - Alura (2026)
-- **Excel: domine o editor de planilhas** - Alura (2026)
-- **Funções com Excel: operações matemáticas e filtros** - Alura (2026)
-- **Recursos Visuais com Excel: explorando gráficos e formatos** - Alura (2026)
-- **Excel: aprendendo lógica booleana e busca por valores** - Alura (2026)
-- **Excel: utilizando tabelas dinâmicas e gráficos dinâmicos** - Alura (2026)
-- **Imersão Data Science** - Alura (2025)
+## 🏆 Certificações & Credenciais Verificadas (Credly & Academias)
 
-### 🔒 Cibersegurança e Compliance
+- ☁️ **Google Cloud Computing Foundations Certificate** – Google Cloud (2026)[cite: 2]
+- 🛡️ **Build a Secure Google Cloud Network** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
+- ⚖️ **Implement Load Balancing on Compute Engine** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
+- 💻 **Set Up an App Dev Environment on Google Cloud** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
+- 🧠 **Prepare Data for ML APIs on Google Cloud** *(Skill Badge)* – Google Cloud (2026)[cite: 2]
+- 🤖 **AI Skills Fest 2026** – Microsoft (2026)[cite: 2]
+- ☁️ **AWS Academy Graduate: Cloud Foundations** – Amazon Web Services (2026)[cite: 2]
+- 🎓 **AWS re/Start Graduate** – Amazon Web Services / Escola da Nuvem (2024)[cite: 2, 3]
+- 🔒 **Endpoint Security** – Cisco Networking Academy (2025)[cite: 2]
+- 🌐 **Networking Academy Learn-A-Thon 2025** – Cisco (2025)[cite: 2]
 
-- **Google SecOps Foundation** - Google Cloud Security (2026)
-- **Compliance em tempos de desconfiança** - TIexames (2026)
-- **Endpoint Security** - Cisco Networking Academy (2025)
-- **Cybersecurity Essentials** - Cisco Networking Academy (2020)
-- **Introdução ao Pentest na Prática** - Desec Security (2025)
-- **Proteção de Software e Segurança da IA** - Santander X (2025)
-- **Da Teoria à Prática: Proteção de Dados Pessoais e Gestão de Incidentes** - NIC.br (2025)
+---
 
-### 🌐 Redes & Infraestrutura
+## 📚 Especializações e Formações Técnicas
 
-- **Live Intra Rede - Preparação para a transmissão da Copa do Mundo: Eficiência, Escala e Confiabilidade** - NIC.br (2026)
-- **Trilha Alura: Começando em Linux** - Alura (2025)
-- **Linux: gerenciando diretórios, arquivos, permissões e processos** - Alura (2025)
-- **Linux: criando script para processamento de arquivos de logs** - Alura (2025)
-- **Linux: criando script de monitoramento de sistema** - Alura (2025)
-- **Redes: dos conceitos iniciais à criação de uma intranet** - Alura (2025)
-- **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet** - Alura (2025)
-- **Networking Academy Learn-A-Thon 2025** - Cisco (2025)
-- **HCIA-5G V2.0 Course** - Huawei (2022)
+### ☁️ Cloud & DevOps
+- **Kubernetes:** Deployments, Volumes e Escalabilidade – Alura (2026)[cite: 1]
+- **Kubernetes:** Pods, Services e ConfigMaps – Alura (2026)[cite: 1]
+- **Docker:** Criação, gerenciamento e automação de containers – Alura (2026)[cite: 1]
+- **CI/CD & GitHub Actions:** Pipelines de testes automatizados e integração Docker – Alura (2026)[cite: 1]
+- **Entrega Contínua (CD):** Confiabilidade e qualidade na implantação de software – Alura (2026)[cite: 1]
+- **MultiCloud DevOps e IA** – The Cloud Bootcamp (2025)[cite: 3]
+- **DevOps Foundation** – Estabilis (2024)[cite: 3]
 
-### 💻 Desenvolvimento & Programação
+### 🌐 Redes, Linux & Cibersegurança
+- **Linux:** Automação com scripts de monitoramento, logs, permissões e processos (Trilha 28h) – Alura (2025)[cite: 1]
+- **Projetos de Redes:** VLANs, políticas de acesso, topologia intranet e segurança web – Alura (2025)[cite: 1]
+- **Google SecOps Foundation** – Google Cloud Security (2026)[cite: 3]
+- **Cybersecurity Essentials** – Cisco Networking Academy[cite: 3]
+- **Introdução ao Pentest na Prática** – Desec Security (2025)[cite: 3]
 
-- **Lógica de programação: explore funções e listas** - Alura (2025)
-- **Começando em Programação: carreira e primeiros passos** - Alura (2025)
-- **Start - Python / JavaScript / Ruby** - OneBitCode (2025)
-- **Lógica de programação: mergulhe em programação com JavaScript** - Alura (2025)
-- **Fundamentos de Front-End Development** - Nubank (2023)
+### 📊 Business Intelligence, Dados & IA
+- **Trilha Power BI (32h):** Dashboards interativos, modelagem DAX e ETL com Power Query – Alura (2026)[cite: 1]
+- **BI com Excel & Power Pivot:** Análise avançada e simulação de cenários – Alura (2026)[cite: 1]
+- **Engenharia de Prompt & IA Generativa:** Aplicação prática com agentes e automação – Alura / Rocketseat (2026)[cite: 1, 3]
+- **Imersão Dev Agentes de IA Google** – Alura (2025)[cite: 1]
 
-### 🚀 Comunidades e Eventos
-- **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Camila Farani** - PUCRS (2026)
-- **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Clóvis de Barros** - PUCRS (2026)
-- **CURSO DE EXTENSÃO PUCRS ONLINE SUMMIT com Silvio Meira** - PUCRS (2026)
-- **AZBR Summit 2026** - AzureBrasil.cloud (2026)
-- **Certificado de Participação - Carreira em TI do Zero** - Even3 (2026)
-- **14° DIO Campus Expert** - DIO (2025)
+<details>
+<summary>📂 <strong>Ver outros cursos complementares e participações em eventos</strong></summary>
+<br>
+
+- **Lógica e Programação:** JavaScript, Python, Ruby (Alura / OneBitCode)[cite: 1, 3]
+- **Comunidades e Eventos:** AZBR Summit 2026, PUCRS Online Summit (Camila Farani, Clóvis de Barros, Silvio Meira), DIO Campus Expert[cite: 3]
+- **Cursos Introdutórios de Produtividade & Office:** Fórmulas lógicas, gráficos dinâmicos e rotinas de produtividade[cite: 1]
+</details>
 
 ---
 
 <div align="center">
 
-### 📊 Contribution Activity
+### 📊 Atividade no GitHub
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark" alt="Profile Details" />
 
@@ -128,7 +103,6 @@ Estudante de Redes de Computadores e entusiasta de Tecnologia, com foco em const
 ---
 
 ### 👁️ Visitantes do Perfil
-
 <img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
 
 </div>
