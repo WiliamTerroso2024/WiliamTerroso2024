@@ -4,7 +4,7 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,git,bash,powershell,githubactions,nginx,python,js&perline=14&theme=dark" alt="Tech Stack" />
 
-Estudante de Redes de Computadores pelo IFPB com foco em **Infraestrutura em Nuvem Multi-Cloud (GCP, Azure, AWS)**, **Automação DevOps (CI/CD, Docker, Kubernetes)**, **Redes Avançadas**, **Cibersegurança** e **Engenharia de IA/Agentes**. Experiência prática consistente em laboratórios hands-on, orquestração de microsserviços, políticas de segurança perimetral/identidade, migração de cargas de trabalho e automação via Linux CLI e pipelines.
+Formando de Redes de Computadores pelo IFPB com foco em **Infraestrutura em Nuvem Multi-Cloud (GCP, Azure, AWS)**, **Automação DevOps (CI/CD, Docker, Kubernetes)**, **Redes Avançadas**, **Cibersegurança** e **Engenharia de IA/Agentes**. Experiência prática consistente em laboratórios hands-on, orquestração de microsserviços, políticas de segurança perimetral/identidade, migração de cargas de trabalho e automação via Linux CLI e pipelines.
 
 ---
 
