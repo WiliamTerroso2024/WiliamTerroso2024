@@ -4,13 +4,14 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,git,bash,powershell,githubactions,nginx,python,js&perline=14&theme=dark" alt="Tech Stack" />
 
-Formando de Redes de Computadores pelo IFPB com foco em **Infraestrutura em Nuvem Multi-Cloud (GCP, Azure, AWS)**, **Automação DevOps (CI/CD, Docker, Kubernetes)**, **Redes Avançadas**, **Cibersegurança** e **Engenharia de IA/Agentes**. Experiência prática consistente em laboratórios hands-on, orquestração de microsserviços, políticas de segurança perimetral/identidade, migração de cargas de trabalho e automação via Linux CLI e pipelines.
+Estudante de Redes de Computadores pelo IFPB com foco em **Infraestrutura em Nuvem Multi-Cloud (GCP, Azure, AWS)**, **Automação DevOps (CI/CD, Docker, Kubernetes)**, **Redes Avançadas**, **Cibersegurança** e **Engenharia de IA/Agentes**. Experiência prática consistente em laboratórios hands-on, orquestração de microsserviços, políticas de segurança perimetral/identidade, migração de cargas de trabalho e automação via Linux CLI e pipelines.
 
 ---
 
 ### 🌐 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/wiliamterrosodesousamelo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.skills.google/public_profiles/af3494db-48d7-47b3-85fe-81a55a7b010f?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost"></a>
   <a href="https://learn.microsoft.com/en-us/users/wiliamterrosodesousamelo/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Learn-Level_8-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"></a>
   <a href="https://www.credly.com/users/wiliam-terroso-de-sousa-melo/badges/credly" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"></a>
   <a href="https://cursos.alura.com.br/user/wiliamterroso" target="_blank"><img src="https://img.shields.io/badge/Alura-167BF7?style=for-the-badge&logo=alura&logoColor=white" alt="Alura"></a>
