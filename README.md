@@ -1,33 +1,3 @@
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark" alt="Estatísticas Gerais" />
-
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark" alt="Linguagens por Repositório" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark" alt="Mais Commitadas" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 👁️ Visitantes do Perfil
-<img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
-
-</div>
-```[cite: 18]
-
----
-
-E aqui está o **`README.md` completo**, com todas as conexões (incluindo o Google Cloud Skills Boost) e o bloco final com a contabilidade de visitas integrado[cite: 18]:
-
-```markdown
 <h1 align="left">👤 <strong>Wiliam Terroso de Sousa Melo</strong></h1>
 
 ### Cloud Infrastructure | DevOps Engineer | Computer Networks | Multi-Cloud & AI Solutions
@@ -148,4 +118,28 @@ Estudante de Redes de Computadores pelo IFPB com foco em **Infraestrutura em Nuv
 <img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
 
 </div>
-```[cite: 18]
+
+
+<div align="center">
+
+### 📊 Estatísticas do GitHub
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark" alt="Estatísticas Gerais" />
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark" alt="Linguagens por Repositório" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark" alt="Mais Commitadas" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 👁️ Visitantes do Perfil
+<img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
+
+</div>
