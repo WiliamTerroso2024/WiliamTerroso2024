@@ -118,28 +118,3 @@ Estudante de Redes de Computadores pelo IFPB com foco em **Infraestrutura em Nuv
 <img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
 
 </div>
-
-
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiliamTerroso2024&theme=github_dark" alt="Estatísticas Gerais" />
-
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WiliamTerroso2024&theme=github_dark" alt="Linguagens por Repositório" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WiliamTerroso2024&theme=github_dark" alt="Mais Commitadas" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 👁️ Visitantes do Perfil
-<img src="https://komarev.com/ghpvc/?username=WiliamTerroso2024&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
-
-</div>
